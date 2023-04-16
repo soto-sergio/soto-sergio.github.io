@@ -1,0 +1,168 @@
+baseURL = ""
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "en"
+# language code
+languageCode = "en"
+title = "Sergio Soto"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "DoIt"
+
+[params]
+  # DoIt theme version
+  version = "0.2.X"
+
+[menu]
+  [[menu.main]]
+    identifier = "Home"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Home"
+    url = ""
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+
+
+  [[menu.main]]
+    identifier = "CV"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "CV"
+    url = "cv"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 3
+ 
+  [[menu.main]]
+    identifier = "Projects"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Projects"
+    url = "/projects/list"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 2
+
+  [[menu.main]]
+    identifier = "SotosAnalytics"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "SotosAnalytics"
+    url = "/SotosAnalytics/sotosanalytics"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 4
+  
+  #[[menu.main]]
+  #  identifier = "AustinFC Stats"
+  #  # you can add extra information before the name (HTML format is supported), such as icons
+  #  pre = ""
+  #  # you can add extra information after the name (HTML format is supported), such as icons
+  #  post = ""
+  #  name = "AustinFC Stats"
+  #  url = "/atxfcstats/"
+  #  # title will be shown when you hover on this menu link
+  #  title = ""
+  #  weight = 5
+
+#[[menu.main]]
+#    identifier = "EdTech"
+#    # you can add extra information before the name (HTML format is supported), such as icons
+#    pre = ""
+#    # you can add extra information after the name (HTML format is supported), such as icons
+#    post = ""
+#    name = "EdTech"
+#    url = "/edtech/"
+#    # title will be shown when you hover on this menu link
+#    title = ""
+#    weight = 6
+#  [[menu.main]]
+#    identifier = "Blog"
+#    # you can add extra information before the name (HTML format is supported), such as icons
+#    pre = ""
+#    # you can add extra information after the name (HTML format is supported), such as icons
+#    post = ""
+#    name = "Blog"
+#    url = "/blog/"
+#    # title will be shown when you hover on this menu link
+#    title = ""
+#    weight = 7
+#
+#  
+#  [[menu.main]]
+#    identifier = ""
+#    pre = ""
+#    post = ""
+#    name = "Categories"
+#    url = "/categories/"
+#    title = ""
+#    weight = 8
+#
+#  [[menu.main]]
+#    identifier = "tags"
+#    pre = ""
+#    post = ""
+#    name = "Tags"
+#    url = "/tags/"
+#    title = ""
+#    weight = 9
+  
+  
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+
+
+
+[params.home]
+  [params.home.profile]
+    enable = true
+    # Gravatar Email for preferred avatar in home page
+    gravatarEmail = ""
+    # URL of avatar shown in home page
+    # Place your avatar file under static or assets directory
+    # The filepath is relative to the static or assets directory
+    avatarURL = "SergioSoto_Pic.png"
+    
+    # DoIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
+    title = "B.S Engineering Physics / M.S Applied Statistics"    
+    # subtitle shown in home page
+    subtitle = "#engineer⚙️ #physics⚛️ #data📊 #sports⚽🏀🏎️ #edtech👨‍🏫"
+    # whether to use typeit animation for subtitle
+    typeit = true
+    # whether to show social links
+    social = true
+    # DoIt NEW | 0.2.0 disclaimer (HTML format is supported)
+    disclaimer = ""
+        
+  # Home page posts
+  [params.home.posts]
+    enable = true
+    # special amount of posts in each home posts page
+    paginate = 1
+    # DoIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
+    # default behavior when you don't set "hiddenFromHomePage" in front matter
+    defaultHiddenFromHomePage = false
+  
+  [params.social]
+    GitHub = "soto-sergio"
+    Linkedin = "sotoquintero/"
+    Twitter = "i_soto_py"
+    Email = "sergio9325@gmail.com"
+    # Instagram = "xxxx"
+
+  [params.page.comment]
+      enable = false
