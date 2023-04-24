@@ -1,7 +1,10 @@
 ---
-title: "Projects"
+title: "Projects - List"
 hiddenFromHomePage: true
 ---
+
+<a href="/projects/showcase">Showcase</a> |  <a href="/projects/list">**List**</a>
+
 {{< admonition tip "Data Science: Machine Learning" False >}}
 ### Predicting STAAR Scores with ML - [Github](https://github.com/soto-sergio/staarPredictions)
 

@@ -45,7 +45,7 @@ theme = "DoIt"
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Projects"
-    url = "/projects/list"
+    url = "/projects/showcase"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 2

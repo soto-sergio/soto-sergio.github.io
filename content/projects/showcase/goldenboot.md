@@ -3,6 +3,7 @@ title: "Golden Boot"
 date: 2023-04-16T12:48:45-05:00
 draft: false
 ---
+<a href = "/projects/showcase"><div style="text-align: right">Back to Showcase </div></a>
 
 # Golden Boot Race in Qatar 2022 ⚽🏆
 

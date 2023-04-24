@@ -1,9 +1,11 @@
 ---
-title: "Showcase"
+title: "Projects - Showcase"
 date: 2023-04-16T12:43:43-05:00
 draft: false
 
 ---
+<a href="/projects/showcase">**Showcase**</a> |  <a href="/projects/list">List</a>
+
 
 {{< showcase title="Golden Boot Race - Qatar 2022" summary="Golden Boot analysis and visualization of the 2022 FIFA World Cup in Qatar." image="golden-boot.png" link="goldenboot/" >}}
 
@@ -11,3 +13,7 @@ draft: false
 
     
 {{< showcase title="STAAR Predictions" summary="Decision tree classification model that predicts students’ 8th Math STAAR classification." image="staar-predict.png" link= "staarpredictions/" >}}
+
+{{< showcase title="Automating Academic Interventions" summary="Python program that automates the process for documenting interventions in ecst (Window's GUI)." image="ecst-interv.png" link= "ecstinterv/" >}}
+
+{{< showcase title="HomeNeedsService" summary="A platform that connects service providers with customers in need of home services." image="hns.png" link= "homeneedsservice/" >}}

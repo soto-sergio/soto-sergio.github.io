@@ -5,7 +5,7 @@ hiddenFromHomePage: true
 ---
 
 # Sergio Soto
-## Data Scientist / Enginering Physics
+## Data Scientist & Enginering Physicist
 ***
 ## Education
 
@@ -16,15 +16,30 @@ hiddenFromHomePage: true
 
 #### BS. Applied Physics – Mechanical Engineering 2011 - 2016
 * Cumulative GPA: 3.64/4.0.
-* Awards: Engineering Fellowship Scholarship (2014, 2015), President’s List (2015), Dean's List (2011, 2013, 2014 and 2015).
+* Awards: Engineering Fellowship Scholarship (2014, 2015), President’s List (2015), Dean's List (2011-2015).
 ***
 ## Publications
 
 - Barua, A. Chavera, I. Djordjevic, V. Manzano, S.S. Quintero, M.K. Roychowdhury, and H. Tejeda (2022, August). Quantization
-for the mixtures of overlap probability distributions, arXiv: [2207.14152[math.PR]](https://arxiv.org/abs/2207.14152).
+for the mixtures of overlap probability distributions, arXiv: [2207.14152[math.PR]](https://arxiv.org/abs/2207.14152).  
 
 - Yang, Y, Diaz, I, & Soto Quintero, S. "A Vertical Axis Wave Turbine With Hydrofoil Blades." Proceedings of the ASME 2016 International Mechanical Engineering Congress and Exposition. Volume 6B: Energy. Phoenix, Arizona, USA. November 11–17, 2016. V06BT08A047. ASME. [https://doi.org/10.1115/IMECE2016-65952](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2016/50596/V06BT08A047/261850).
 ***
+
+## Thesis Presentations
+<table style="border-collapse: collapse; width:98%; height: 10px;" border="1">
+<tbody>
+<tr style="height: 10px;">
+<td style="width: 49.9489%; height: 10px;"><center><b>Presentation for the School of Mathematics and Statistical Sciences at UTRGV.
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/V0QjrSV-8OM" width="340" height="170" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe></td>
+<td style="width: 49.9489%; height: 10px">
+<p>&nbsp;</p><p>&nbsp;</p><center><b>Presentation for the College of Engineering and Computer Science at UTRGV.
+<div class="infogram-embed" data-id="5149a013-4176-424f-a23b-2608432ebfe7" data-type="interactive" data-title="Case Study: Electromechanical System for Testing Wave Energy Converters."></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
+</tr>
+</tbody>
+</table>
+
+
 ## Skills
 - **Languages:** Fluent in English and Spanish.
 
