@@ -4,7 +4,7 @@ date: 2023-04-16T12:48:45-05:00
 draft: false
 ---
 <a href = "/projects/showcase"><div style="text-align: right">Back to Showcase </div></a>
-# Automating Interventions with Selenium and Python v2.0 (GUI Version)
+# Automating Interventions with Selenium and Python v2.0 (GUI Version) 🤖📂 - [Github](https://github.com/soto-sergio/ecst-interv-v2)
 ***
 
 This program will let you automate the documention of academic interventions in ecst (a student management system) 

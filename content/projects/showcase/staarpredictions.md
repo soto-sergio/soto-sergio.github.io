@@ -5,7 +5,7 @@ draft: false
 ---
 <a href = "/projects/showcase"><div style="text-align: right">Back to Showcase </div></a>
 
-# Predicting STAAR Scores with ML 
+# Predicting STAAR Scores with ML ⭐️📊 - [Github](https://github.com/soto-sergio/staarPredictions)
 
 ***
 A decision tree classification model that predicts if a student will pass the 8th grade Math STAAR based of their math district assessment scores.

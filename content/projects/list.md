@@ -32,7 +32,7 @@ hiddenFromHomePage: true
 {{< /admonition >}}
 ***
 {{< admonition tip "Data Visualization and Data Mining" False >}}
-### Golden Boot Race - Qatar 2022 - [Github](https://github.com/soto-sergio/goldenBoot-qatarWC)
+### Golden Boot Race: Qatar 2022 - [Github](https://github.com/soto-sergio/goldenBoot-qatarWC)
 - Utilized data mining and data cleaning skills to create a Tableau dashboard of previous Golden Boot winners.
 - Created infographics and race bar graphs for social media platforms.
 
