@@ -17,3 +17,5 @@ draft: false
 {{< showcase title="Automating Academic Interventions" summary="Python program that automates the process for documenting interventions in ecst (Window's GUI)." image="ecst-interv.png" link= "ecstinterv/" >}}
 
 {{< showcase title="HomeNeedsService" summary="A platform that connects service providers with customers in need of home services." image="hns.png" link= "homeneedsservice/" >}}
+
+{{< showcase title="Mail Marketing Campaign" summary="Study that analyzes a marketing mail compagain using Logistic Regression, Random Forest and Support Vector Machines. The project developes predictive models to identify which groups of customers are most likely to engage with the promotional emails." image="mail.png" link= "mailmarketing/" >}}
