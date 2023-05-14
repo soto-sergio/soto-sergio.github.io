@@ -43,6 +43,6 @@ for the mixtures of overlap probability distributions, arXiv: [2207.14152[math.P
 ## Skills
 - **Languages:** Fluent in English and Spanish.
 
-- **Programming:** MATLAB , C++, Java, PHP, R, Python (e.g. scikit-learn, numpy, pandas, matplotlib, selenium, tkinter), HTML, SQL, AWS, LAMP, Tableau, GitHub, Bash (CLI).
+- **Programming:** MATLAB, C++, Java, PHP, R, Python (e.g. scikit-learn, numpy, pandas, matplotlib, selenium, tkinter), HTML, SQL, AWS, LAMP, Tableau, GitHub, Bash (CLI).
 
 - **Mechanical/Manufacturing Engineering:** NX 9 (CAD), Servo systems, 3D Printing Design, Machining and Assembly. Six Sigma, Lean Manufacturing: VSM, 5's, One Piece Flow, Pareto charts, Kaizen newspaper, Kanban boards, Spaghetti diagrams, First in, First Out, Project Planning, Quality Assurance, Process Optimization, Multidisciplinary Teamwork.
